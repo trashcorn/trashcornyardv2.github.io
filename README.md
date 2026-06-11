@@ -1,3 +1,3 @@
-# https://github.com/trashcorn.github.io
+# https://trashcorn.github.io
 First project's third version
 creator:trashcorn
